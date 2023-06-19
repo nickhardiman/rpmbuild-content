@@ -1,11 +1,11 @@
-Name:           hello-bash
+Name:           bello
 Version:        0.0.1
 Release:        1%{?dist}
 Summary:        A simple hello world script written in Bash
 BuildArch:      noarch
 
 License:        GPL
-Source0:        %{name}-%{version}.tar.gz
+Source0:        %{name}.tgz
 
 Requires:       bash
 
