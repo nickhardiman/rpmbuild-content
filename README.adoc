@@ -1,4 +1,11 @@
-content for https://github.com/nickhardiman/ansible-playbook-rpmbuild
+= RPM build source
 
-Based on examples in https://rpm-packaging-guide.github.io/
+Content for building RPMs. 
 
+This is the target for my Ansible playbook here. https://github.com/nickhardiman/ansible-playbook-rpmbuild
+
+This content is based on examples in the RPM user guide. https://rpm-packaging-guide.github.io/
+
+== todo
+
+Replace pello and cello content with content from user guide examples. 
