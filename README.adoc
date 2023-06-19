@@ -1,1 +1,4 @@
 content for https://github.com/nickhardiman/ansible-playbook-rpmbuild
+
+Based on examples in https://rpm-packaging-guide.github.io/
+

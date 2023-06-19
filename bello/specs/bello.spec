@@ -1,7 +1,7 @@
-Name:           hello
+Name:           hello-bash
 Version:        0.0.1
 Release:        1%{?dist}
-Summary:        A simple hello world script
+Summary:        A simple hello world script written in Bash
 BuildArch:      noarch
 
 License:        GPL
@@ -27,5 +27,5 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/%{name}.sh
 
 %changelog
-* Sun Nov  18 2020 Valentin Bajrami <valentin.bajrami@slimmer.ai> - 0.0.1
+* Mon Jun 19 2023 Nick <nick@example.com> - 0.0.1
 - First version being packaged
